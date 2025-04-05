@@ -20,3 +20,7 @@ The main goal of the project is to create a flexible layout that dynamically adj
 The styling and responsiveness are handled primarily through CSS3. Key features include the use of media queries to apply different styles based on the screen width. For instance, the layout might switch from a multi-column grid on desktops to a single-column layout on mobile devices. Responsive units such as percentages (%), viewport width (vw), and relative font sizes (em, rem) are used instead of fixed pixels to ensure fluid scalability. The project also incorporates flexbox and CSS Grid to create adaptable and modern layouts that are easy to manage and visually appealing.
 
 To enhance interactivity and improve user experience, JavaScript is integrated into the webpage. JavaScript is used to handle dynamic elements such as responsive navigation menus (e.g., collapsible hamburger menus on smaller screens), image sliders, or scroll-triggered animations. JavaScript also helps in detecting screen size changes and dynamically adjusting elements when necessary
+
+OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/596515c6-8078-482b-b73e-c3d2f4088bc7)
